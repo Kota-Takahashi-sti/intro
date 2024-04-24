@@ -8,3 +8,4 @@ git status
 git clone URL
 git merge
 コンフリクト
+コンクリート
