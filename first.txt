@@ -9,3 +9,4 @@ git clone URL
 git merge
 コンフリクト
 コンクリート
+pull-request
