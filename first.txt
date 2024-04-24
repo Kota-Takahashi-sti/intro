@@ -10,3 +10,4 @@ git merge
 コンフリクト
 コンクリート
 pull-request
+githubflow
