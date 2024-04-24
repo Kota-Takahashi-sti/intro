@@ -7,3 +7,4 @@ git rm
 git status
 git clone URL
 git merge
+コンフリクト
